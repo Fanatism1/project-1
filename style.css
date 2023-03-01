@@ -6,7 +6,7 @@ body{
     
 }
 main{
-    background-image: url("/site/img/372325109.jpg");
+    background-image: url("img/372325109.jpg");
     background-repeat:repeat-y;
     max-width: 1440px;
     max-height: 2000px;
@@ -81,7 +81,7 @@ li{
     
 }
 .one_picture{
-    background-image:url("/site/img/man1.png");
+    background-image:url("img/man1.png");
     width: 800px;
     height: 330px;
 }
@@ -140,15 +140,15 @@ li{
     color:#fff;
 }
 .img2{
-    background-image: url("/site/img/man2.png");
+    background-image: url("img/man2.png");
 }
 .one_picture1{
-    background-image: url("/site/img/maps.png");
+    background-image: url("img/maps.png");
     width: 800px;
     height: 330px;
 }
 .one_picture2{
-    background-image: url("/site/img/man3.png");
+    background-image: url("img/man3.png");
     width: 800px;
     height: 330px;
 }
@@ -212,19 +212,19 @@ li{
     color:#A9AFB3;
 }
 .bg_stories1{
-    background-image: url("/site/img/stories1.png");
+    background-image: url("img/stories1.png");
     width: 300px;
     height: 190px;
     margin-bottom: 20px;
 }
 .bg_stories2{
-    background-image: url("/site/img/stories2.png");
+    background-image: url("img/stories2.png");
     width: 300px;
     height: 190px;
     margin-bottom: 20px;
 }
 .bg_stories3{
-    background-image: url("/site/img/stories3.png");
+    background-image: url("img/stories3.png");
     width: 300px;
     height: 190px;
     margin-bottom: 20px;
